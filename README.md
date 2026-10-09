@@ -1,5 +1,7 @@
 # Enzo's MCP server
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/genoma-labs/enzos-mcp)
+
 Connect any MCP-compatible AI assistant (ChatGPT, Claude, Gemini, and others) to
 [Enzo's](https://enzos.ai) live US home-for-sale data.
 
